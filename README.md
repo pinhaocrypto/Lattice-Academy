@@ -2,7 +2,7 @@
 
 Lattice Academy is a comprehensive educational resource focused on lattice-based cryptography for Chinese speakers. This project is designed to address the growing need for quantum-resistant cryptography—especially with Ethereum's transition—by filling the gap of Chinese-language educational materials.
 
-晶格 Academy 是一個專注於晶格密碼學的中文學習資源。此專案主要是為了填補中文語言的教學資源缺口，並幫助中文人士可以更容易的學習，使其可以在 Ethereum 過渡到抗量子 Ethereum 的過程更容易加入一起貢獻。
+晶格 Academy 是一個晶格密碼學的中文學習資源。此專案主要是為了填補中文語言的學習資源，並幫助中文人士可以更容易的學習，使其可以在 Ethereum 過渡到抗量子 Ethereum 的過程更容易加入一起貢獻。
 
 ## Project Overview
 
